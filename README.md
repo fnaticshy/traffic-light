@@ -2,6 +2,8 @@
 
 ## Project setup
 ```
+host: https://traffic-light-210fd.web.app/
+```
 npm install
 ```
 
